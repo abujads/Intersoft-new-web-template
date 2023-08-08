@@ -1,0 +1,93 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+  }
+
+.catog {
+    width: 350px;
+    height: 1200px;
+    background-color: #2f69b4;
+    float: left;
+}
+
+
+.catog input[type='checkbox'] {
+    color: #10407f;
+    width:15px;
+    height: 15px;
+    float: left;
+    margin:10px 10px 0px 40px;
+
+}
+
+.catog .catp {
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    padding-bottom:5px;
+    text-align: center;
+    font-family: 'Titillium Web', 'sans-serif';
+    background-color: #006bf7;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.catog p {
+    color: #ffffff;
+    margin-top:1px;
+    font-size: 20px;
+    float:none;
+    font-family: 'Titillium Web', 'sans-serif';
+}
+.pshow {
+    float: left;
+    margin-top: 100px;
+    width: 1553px;
+    height: 500px;
+    background-color:#10407f ;
+    background-image: url(robg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pshow p {
+    font-size: 100PX;
+    text-align: center;
+    margin-top: 350PX;
+    color: white;
+    font-family: 'Titillium Web', 'sans-serif';
+    background-color: #2f69b4;
+    opacity: 0.6;
+}
+
+.prolis {
+    margin-left: 350px;
+    margin-top: 500px;
+    width: auto;
+    height: 520px;
+    background-color: #006bf7;
+    padding-top: 100px;
+    padding-left: 20px;
+}
+.prolis1 {
+    width: 480px;
+    height: 380px;
+    border-radius: 10px;
+    padding: 20px 0px 0px 40px;
+}
+
+.prolis img{
+    width: 400px;
+    border-radius: 20px 20px 0px 0px;
+    margin-bottom: 0px;
+}
+
+.prolisp {
+    font-family: 'Titillium Web', 'sans-serif';
+    color: #ffffff;
+    font-size: 40px;
+    text-transform: uppercase;
+    background-color: #10407f ;
+    border-radius: 5px ; 
+    width: 400px;
+}

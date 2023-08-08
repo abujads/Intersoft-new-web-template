@@ -1,0 +1,115 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.mar {
+    height: 1000px;
+    background-color: rgb(236, 248, 255);
+    padding-top: 200px;
+    padding-bottom: 200px;
+    
+}
+.logsi2 {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.chu {
+    background-color: rgb(251, 255, 255);
+    width: 600px;
+    height: 700px;
+    color: black;
+   margin-left: 660px;
+    border-radius: 20px;
+    border: 1px solid #10407F;
+   
+}
+
+.loginn {
+    color: #10407F;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.emil1 {
+    color: #10407F;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+    margin-left: 110px;
+    margin-top: 50px;
+}
+
+.passd {
+    margin-top: 5px;
+}
+
+input[type=text], select {
+    width: 400px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #d5d7ff;
+    margin-left: 100px;
+    float:none;
+  }
+  
+input[type=checkbox] {
+    margin-left: 100px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+
+.loginbut {
+    margin-left: 150px;
+    width: 300px;
+    height: 50px;
+    background-color: #055cce;
+    border-radius: 5px;
+    color: white;
+    border: 2px solid #5493e6;
+    margin-top: 30px;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 25px;
+}
+.marg {
+    margin-top: 20px;
+    
+}
+
+.nmnew {
+    margin: 0;
+}
+
+.fbll {
+    background-color:#055cce;
+    width: 350px;
+    height: 55px;
+    border-radius: 10px;
+    padding-top: 13px;
+    padding-left: 20px;
+    margin: 40px 0px 0px 122px;
+}
+.fbll .fa-facebook {
+    color: white;
+    margin-right: 20px;
+    float: left;
+}
+.fbll p {
+    color: white;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0px;
+}
+
+.google-icon {
+    width: 25px;
+}
